@@ -354,6 +354,9 @@ footer a:hover{
 
 @media only screen and (max-width: 600px) {
 
+  .column{
+    margin-bottom: 30px;
+  }
 
   .navbar li:not(:last-child) {
     margin-right: 10px
